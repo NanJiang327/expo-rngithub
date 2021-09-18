@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "expo-rngithub",
+    "slug": "expo-rngithub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon_github-square.png",
+    "splash": {
+      "image": "./assets/launch_screen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon_github-square.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
